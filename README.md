@@ -22,3 +22,11 @@ Este proyecto es una API de clientes que permite realizar las siguientes operaci
 - **Node.js** y **npm** instalados en tu sistema.
 - **MongoDB** (local o remoto, como MongoDB Atlas) para la base de datos.
 
+  
+## Clonación del repositorio
+
+Para clonar este repositorio en tu máquina local, utiliza el siguiente comando:
+
+```bash
+gh repo clone SamanthaCayun/Trabajo-Final--Clientes
+
